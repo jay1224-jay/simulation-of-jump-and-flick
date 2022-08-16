@@ -3,5 +3,4 @@
 using C++ and SFML
 
 video:
-
-https://imgur.com/a/3RgLnfb
+https://i.imgur.com/NTsfBXw.mp4
